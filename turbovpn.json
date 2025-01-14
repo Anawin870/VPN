@@ -1,60 +1,137 @@
 {
+
   
-"version": 3,
-"message": "เวอร์ชันไฟล์: 3 \nมีอะไรใหม่ \nแก้ไขเวลาเพิ่ม 24 ชั่วโมง😘",
-"fileUrl": "https://raw.githubusercontent.com/Anawinkulmor/VPN/refs/heads/main/turbo2.json",
+
+"version":11,
+
+"message": "เวอร์ชันไฟล์:11\nมีอะไรใหม่ \nอัพเดทเซิร์ฟเวอร์
+
+-🔴 TRUE ESPORT
+
+-🔴 TRUE ID
+
+-🔴 𝚃𝚁𝚄𝙴 𝚅𝙸𝙱𝙴𝚁
+
+-🔴 𝚃𝚁𝚄𝙴 𝚅𝙸𝚄
+
+-🔵 DTAC GAMING
+
+-🟢 AIS PLAY
+
+
+
+ขอบคุณที่ใช้เเอพของผมครับ😊
+
+ใช้ดีอย่าลืมรีวิว 5 ดาว 🌟 บน play store ด้วยนะครับ",
+
+"fileUrl": "https://raw.githubusercontent.com/Anawinkulmor/VPN/refs/heads/main/fileturbovpn1.json",
+
+
 
 "RewardAmount": 24,
 
+
+
 "messageWarning":"มีอะไรใหม่ ?\n• อัปเดต UI \n• เพิ่มฟังก์ชัน Hotshare \n• แก้ไขข้อบกพร่องและอื่นๆ อีกมากมาย\n \nขอบคุณที่เข้าใจ❤️",
+
 "title":"ไม่สามารถใช้เวอร์ชันปัจจุบันต่อได้ คุณต้องอัปเกรด ",
-"link":"https://play.google.com/store/apps/details?id=tikpremium.pro.net",
-"website":"https://play.google.com/store/apps/details?id=tikpremium.pro.net",
+
+"link":"https://play.google.com/store/apps/details?id=turbovpn.pro.net",
+
+"website":"https://play.google.com/store/apps/details?id=turbovpn.pro.net",
+
 "versionCode": 1,
+
+
 
 "files": [
 
+
+
 {
+
+
 
          "name": "TH-FREE-01",
 
+
+
          "url": "http://141.98.18.205:82/server/online_app.json"
+
+
 
       },
 
+
+
   {
+
+
 
          "name": "TH-FREE-02",
 
+
+
          "url": "http://117.18.127.156:82/server/online_app.json"
+
+
 
       },
 
+
+
   {
+
+
 
          "name": "TH-FREE-03",
 
+
+
          "url": "http://117.18.127.149:82/server/online_app.json"
+
+
 
       },
 
+
+
   {
+
+
 
          "name": "TH-FREE-04",
 
+
+
          "url": "http://117.18.127.149:82/server/online_app.json"
+
+
 
       },
 
+
+
   {
+
+
 
          "name": "TH-FREE-05",
 
+
+
          "url": "http://117.18.127.147:82/server/online_app.json"
+
+
 
       }
 
 
+
+
+
    ]
+
   
+
 }
